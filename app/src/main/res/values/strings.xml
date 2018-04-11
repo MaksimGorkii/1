@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quizz project</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="question1">Question1</string>
+    <string name="question2">Question2</string>
+    <string name="question3">Question3</string>
+    <string name="question4">Question4</string>
+    <string name="description">Description</string>
+    <string name="answer1">answer1</string>
+    <string name="answer2">answer2</string>
+    <string name="answer3">answer3</string>
+    <string name="enter_answer">Enter answer here</string>
+    <string name="check1">check1</string>
+    <string name="check2">check2</string>
+    <string name="submit">submit</string>
+    <string name="result">result</string>
+</resources>

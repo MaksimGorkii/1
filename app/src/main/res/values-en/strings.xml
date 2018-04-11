@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quizz project</string>
+    <string name="description">Quiz about an American novelist Ernest Hemingway</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="enter_answer">Enter answer here</string>
+    <string name="submit">submit</string>
+    <string name="result">result</string>
+    <string name="question4">Question4</string>
+    <string name="question1">"When was the author born? "</string>
+    <string name="answer1">1899</string>
+    <string name="answer2">1990</string>
+    <string name="answer3">1954</string>
+    <string name="question2">"Which of those books did he write? "</string>
+    <string name="check1">A Farewell to Arms</string>
+    <string name="check2">"For Whom the Bell Tolls "</string>
+    <string name="question3">"What is the authors middle name? "</string>
+</resources>

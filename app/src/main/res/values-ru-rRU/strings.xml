@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quizz project</string>
+    <string name="enter_name">Введите имя</string>
+    <string name="question1">В каком году родился автор?</string>
+    <string name="question2">Какие из этих произведений принадлежат автору?</string>
+    <string name="question3">"Какое второе имя автора? "</string>
+    <string name="question4">Вопрос 4</string>
+    <string name="description">Тест по творчеству Эрнеста Хэммингуэя</string>
+    <string name="answer1">1899</string>
+    <string name="answer2">1990</string>
+    <string name="answer3">1954</string>
+    <string name="enter_answer">Введите свой ответ</string>
+    <string name="check1">Прощай, оружие</string>
+    <string name="check2">По ком звонит колокол</string>
+    <string name="submit">ответить</string>
+    <string name="result">результат</string>
+</resources>
